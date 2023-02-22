@@ -1,0 +1,32 @@
+body{
+    /* background-color: red; */
+}
+.intro{
+background-color: #233018;
+padding: 50px;
+
+}
+
+.about-us{
+background-color: #b4b553;
+padding: 50px;
+}
+
+.services{
+    background-color: #92ae41;
+    padding: 50px;
+
+}
+
+.our-work{
+background-color: #32353b;
+padding: 50px;
+}
+.our-work1{
+    background-color: #261e14;
+    padding: 50px;
+    }
+
+    h1{
+        color: white;
+    }
